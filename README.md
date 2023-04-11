@@ -25,8 +25,6 @@ DiagnoScan is an innovative mobile app designed to tackle the growing incidence 
 
 ## Screenshots
 
-![Screenshot 1](https://media.licdn.com/dms/image/C4D22AQEHUTls51Uj1g/feedshare-shrink_2048_1536/0/1677952049726?e=1680739200&v=beta&t=6EMm4XaK_in9IcVrbz7Uqy0vyryNnzyar78cX_YRfLg)
-
 
 ## Contributing
 
