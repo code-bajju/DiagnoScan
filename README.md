@@ -28,7 +28,7 @@ DiagnoScan is an innovative mobile app designed to tackle the growing incidence 
 
 ## Contributing
 
-Contributions are always welcome! If you'd like to contribute to DiagnoScan, please open an issue or pull request on this repository.
+Contributions are always welcome! If you would like to contribute to DiagnoScan, please open an issue or pull request on this repository.
 
 ## License
 
@@ -38,6 +38,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Feedback and Contributions
 
 We welcome any feedback or suggestions on how we can improve DiagnoScan. Please feel free to create an issue or submit a pull request on our [GitHub repository](https://github.com/code-bajju/DiagnoScan.git). 
+
 
 ## Credits
 
